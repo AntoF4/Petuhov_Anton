@@ -1,0 +1,53 @@
+.logo1 {
+	width: 387.33px
+    height: 604.39px
+    top: 856.5px
+    left: 343.5px
+}
+
+.logo11 {
+	width: 327.33px
+    height: 99.89px
+    top: 1460.89px
+    left: 343.5px
+    padding: 21.11px, 0px, 25.78px, 44.5px
+    border-radius: 0px, 0px, 0px, 41px
+
+}
+
+.logo2 {
+	width: 387.33px
+    height: 603.77px
+    top: 856.5px
+    right: 754.83px
+    background-image: center;
+
+}
+
+
+
+
+.div {
+  position: relative;
+}
+
+.inner {
+  border: 2px solid #000;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  width: 100px;
+  height: 100px;
+}
+
+
+.container {
+width: 500px;
+height: 500px;
+background-image: url('images/a.png');
+background-blend-mode: multiply;
+
+}
+
+
+
